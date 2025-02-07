@@ -23,9 +23,9 @@ redirect_from:
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Dec. 2024]</b> .</li> Our team advances to the finals of the 2024 Shenzhen Intelligent Robot Dexterous Hand Competition and is awarded the Excellence Prize.
+  <li> <b>[Dec. 2024]</b> Our team advances to the finals of the 2024 Shenzhen Intelligent Robot Dexterous Hand Competition and is awarded the Excellence Prize.
 
-  <li> <b>[Nov. 2024]</b> .</li> I am invited to give a talk tiled "From Visual Recognition to Multimodal Learning" at School of Software Engineering, Sun Yat-Sen University!
+  <li> <b>[Nov. 2024]</b> I am invited to give a talk tiled "From Visual Recognition to Multimodal Learning" at School of Software Engineering, Sun Yat-Sen University!
   
   <li> <b>[Jul. 2024]</b> I start my career journey as a Full Professor and PI at Guangming Lab, Shenzhen.</li>
 
