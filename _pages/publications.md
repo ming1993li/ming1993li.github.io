@@ -17,7 +17,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/Inter3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction</b><br>Gan Chen, Ying He, Mulin Yu, F.Richard Yu, Gang Xu, Fei Ma, <b>Ming Li</b>* and Guang Zhou. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
+[<a href="https://arxiv.org/pdf/2502.14004">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
