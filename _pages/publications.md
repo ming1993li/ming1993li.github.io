@@ -84,19 +84,18 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/Zhangyan.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Uncertainty Quantification via Holder Divergence for Multi-View Representation Learning</b><br>Yan Zhang†, <b>Ming Li</b>†, Chun Li, Zhaoxia Liu, Ye Zhang, and Fei Richard Yu. <i>Under Review</i>. 2024. (†Equal Contributors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-<p>
 <img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
 [<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/Zhangyan.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>Uncertainty Quantification via Holder Divergence for Multi-View Representation Learning</b><br>Yan Zhang†, <b>Ming Li</b>†, Chun Li, Zhaoxia Liu, Ye Zhang, and Fei Richard Yu. <i>IEEE TMM</i>. 2025. (†Equal Contributors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/slam.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
