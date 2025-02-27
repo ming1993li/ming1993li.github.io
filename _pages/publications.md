@@ -28,12 +28,6 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>Shaoyu liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/abs/2412.00832">Paper</a>][<a href="https://xdusyl.github.io/eventgpt.github.io/">Project</a>]
-<br clear="left">
-</p>
-
-<p>
 <img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, and Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="http://arxiv.org/abs/2412.00334">Paper</a>][<a href="http://arxiv.org/abs/2412.00334">Project</a>]
 <br clear="left">
@@ -87,6 +81,19 @@ author_profile: true
 <img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
 [<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>Shaoyu liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>CVPR</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/abs/2412.00832">Paper</a>][<a href="https://xdusyl.github.io/eventgpt.github.io/">Project</a>]
+<br clear="left">
+</p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/depth.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors</b><br>Weilong Yan, <b>Ming Li</b>, Haipeng Li, Shuwei Shao, Robby T. Tan. <i>CVPR</i>. 2025.<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
