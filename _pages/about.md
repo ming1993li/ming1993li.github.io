@@ -22,6 +22,7 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+<li> <b>[Feb. 2025]</b> Two papers are accepted by CVPR 2025, one of the top-tier AI/CV conferences. Congradulations!
   
   <li> <b>[Dec. 2024]</b> Our team advances to the finals of the 2024 Shenzhen Intelligent Robot Dexterous Hand Competition and is awarded the Excellence Prize.
 
