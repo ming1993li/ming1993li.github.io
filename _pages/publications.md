@@ -8,9 +8,10 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <!-- ## Conference Articles ## -->
+
 <p>
 <img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Fufangchen Zhao, <b>Ming Li</b>*†, Linrui Xu, Wenhao Jiang, Jian Gao and Danfeng Yan. <i>Under Review</i>. 2025. (*Corresponding Authors, †Equal Contributors)<br> 
-[<a href="http://arxiv.org/abs/2503.09158">Paper</a>][<a href="">Project</a>]
+[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
