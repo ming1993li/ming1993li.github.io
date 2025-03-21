@@ -134,7 +134,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/lv_vton.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>LV-VTON: Long-Video Virtual Try-On via Enhanced Visual Autoregressive Modeling</b><br>Lulu Tian, Hongxun Yao and Ming Li. <i>ICME</i>. 2025. (*Corresponding Authors)<br> 
+<b>LV-VTON: Long-Video Virtual Try-On via Enhanced Visual Autoregressive Modeling</b><br>Lulu Tian, Hongxun Yao and Ming Li. <i>ICME</i>. 2025.<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
