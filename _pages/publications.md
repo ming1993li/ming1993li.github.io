@@ -134,11 +134,19 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/lv_vton.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>LV-VTON: Long-Video Virtual Try-On via Enhanced Visual Autoregressive Modeling</b><br>Lulu Tian, Hongxun Yao and Ming Li. <i>ICME</i>. 2025.<br> 
+<b>LV-VTON: Long-Video Virtual Try-On via Enhanced Visual Autoregressive Modeling</b><br>Lulu Tian, Hongxun Yao and <b>Ming Li</b>. <i>ICME</i>. 2025.<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
+
+
+<p>
+<img src="https://ming1993li.github.io/images/omnistyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>OmniStyle: Attention-Optimized Global and Local Image Stylization with Diffusion Model Inversion</b><br>Jiarong Cheng, Xihang Qiu, Qing Zhou, <b>Ming Li</b>*, Chun Li*, Yao Lu and Fei Richard Yu. <i>ICME</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 
 <p>
