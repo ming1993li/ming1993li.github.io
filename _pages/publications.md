@@ -22,6 +22,13 @@ author_profile: true
 
 
 <p>
+<img src="https://ming1993li.github.io/images/pvchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>PVChat: Personalized Video Chat with One-Shot Learning</b><br>Yufei Shi†, Weilong Yan†, Gang Xu, Yumeng Li, Yucheng Chen,
+Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. (*Corresponding Authors, †Equal Contributors)<br>[<a href="https://arxiv.org/pdf/2503.17069">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+
+<p>
 <img src="https://ming1993li.github.io/images/safe-var.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking</b><br>Ziyi Wang, Songbai Tan, Gang Xu, Xuerui Qiu, Hongbin Xu, Xin Meng, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br>[<a href="https://arxiv.org/pdf/2503.11324">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
