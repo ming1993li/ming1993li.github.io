@@ -25,6 +25,9 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  
+  <li> <b>[Apr. 2025]</b> Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
+    
   <li> <b>[Feb. 2025]</b> Two papers are accepted by CVPR 2025, one of the top-tier AI/CV conferences. Congradulations!
 
   <li> <b>[Feb. 2025]</b> One paper is accepted by IEEE TMM. Congradulations!
