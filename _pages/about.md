@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I am a Talented Star Full Prefessor and Principle Investigator in Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ). I am leading a team (about 15 persons) conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities.
+* I am a Senior Research Scientist and Principle Investigator in Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ). I am leading a team (about 15 persons) conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities.
 
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
 
