@@ -18,7 +18,7 @@ redirect_from:
 
 * Achievements:
   ** Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
-  **
+  ** efwef
 
 * Academic services: I am a regular reviwer for IEEE TPAMI, CVPR, ICCV, NeurIPS, AAAI, IEEE TMM, IEEE TIP, IEEE TNNLS, and Neurocomputing.
 
