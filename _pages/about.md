@@ -17,8 +17,8 @@ redirect_from:
 * I completed my Ph.D. study (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) (Fellow of AAAI, ACM, IEEE) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Prof. Fei Richard Yu](https://scholar.google.ca/citations?user=zuGMGBoAAAAJ&hl=en) (Member of the Academia Europaea, Fellow of Canadian Academy of Engineering, IEEE), [Prof. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN) (Standford’s Top 2% Most Highly Cited Scientist), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun).
 
 * Achievements:
-  *** Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
-  *** efwef
+*** Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
+*** efwef
 
 * Academic services: I am a regular reviwer for IEEE TPAMI, CVPR, ICCV, NeurIPS, AAAI, IEEE TMM, IEEE TIP, IEEE TNNLS, and Neurocomputing.
 
