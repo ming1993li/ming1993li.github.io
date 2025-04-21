@@ -15,6 +15,14 @@ author_profile: true
 <br clear="left">
 </p>
 
+
+<p>
+<img src="https://ming1993li.github.io/images/TextSplat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting</b><br>Zhicong Wu, Hongbin Xu, Gang Xu, Ping Nie, Zhixin Yan, Jinkai Zheng, Liangqiong Qu, <b>Ming Li</b>* and Liqiang Nie. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/abs/2504.09588">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+
 <p>
 <img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FaVChat: Unlocking Fine-Grained Facail Video Understanding with Multimodal Large Language Models</b><br>Fufangchen Zhao, <b>Ming Li</b>*†, Linrui Xu, Wenhao Jiang, Jian Gao and Danfeng Yan. <i>Under Review</i>. 2025. (*Corresponding Authors, †Equal Contributors)<br>[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
 <br clear="left">
