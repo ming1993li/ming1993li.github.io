@@ -28,7 +28,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : # 6 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -83,7 +83,7 @@ author:
   name             : "Ming"
   avatar           : "profile.png"
   bio              : "Ph.D. graduated from NUS, interested in AIGC and MLLMs"
-  location         : "Singapore"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2wySPkcAAAAJ&hl=zh-CN"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # example: "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ming-li-742110183"
+  # linkedin         : "ming-li-742110183"
   orcid            : #"http://orcid.org/0000-0002-3744-2254"
   pinterest        :
   soundcloud       :
