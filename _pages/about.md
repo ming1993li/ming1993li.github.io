@@ -18,11 +18,14 @@ redirect_from:
 
 * Achievements:
   * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
-  * efwef
+  * Our team advances to the finals of the 2024 Shenzhen Intelligent Robot Dexterous Hand Competition and is awarded the Excellence Prize.
+  * Our IJCV paper, Instant3D, attracts many cooperation invitations from famous institutes, like Gaorong Capital, Huawei, miHoYo, and University of Michigan, which presents a novel fast text-to-3D generation paradigm.
+  * Our paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification" published on IEEE Transactions on Multimedia has been repeatedly selected as ESI Highly Cited Papers.
+  * My results on AI City Challenge 2020 Track3: City-Scale Multi-Camera Vehicle Tracking rank 1st on the official leaderboard, which surpass the second ones by very large margins! The challenge is organized by NIVIDIA on CVPR 2020.
 
 * Academic services: I am a regular reviwer for IEEE TPAMI, CVPR, ICCV, NeurIPS, AAAI, IEEE TMM, IEEE TIP, IEEE TNNLS, and Neurocomputing.
 
-* I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) supervised by [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021. Before that, I worked as a RA supervised by [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN) (Fellow of IEEE, AIMBE, IAPR, MICCAI) at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. I graduated with a Master degree from [School of EECS](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in Jul. 2018. And I received my Bachelor degree from School of EE of [Xidian University](https://en.xidian.edu.cn/index.htm) in Jul. 2015. 
+* I was a full-time Research Assistant in [VISLab](https://zhang-vislab.github.io) supervised by [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021. Before that, I worked as a RA supervised by [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN) (Fellow of IEEE, AIMBE, IAPR, MICCAI) at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. I graduated with a Master degree from [School of EECS](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in Jul. 2018. And I received my Bachelor degree from School of EE of [Xidian University](https://en.xidian.edu.cn/index.htm) in Jul. 2015. 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
