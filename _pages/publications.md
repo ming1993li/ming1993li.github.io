@@ -41,6 +41,11 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/CustStyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians</b><br>Cailin Zhuang, Yaoqi Hu, Xuanyang Zhang, Wei Cheng, Jiacheng Bao, Shengqi Liu, Yiying Yang, Xianfang Zeng, Gang Yu and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/abs/2504.15281">Paper</a>][<a href="https://styleme3d.github.io/">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/XSGS.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>X-SGS: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks</b><br>Zihang Cheng, Huiping Zhuang, Chun Li, Xin Meng, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
@@ -66,12 +71,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
-
-<p>
-<img src="https://ming1993li.github.io/images/CustStyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Gaussian Splatting Stylization with Customized Reference via Dynamic Style Score Distillation</b><br>Cailin Zhuang, Yaoqi Hu, Jiacheng Bao, Song Tong, Tao He, Chun Li, Lan Xu, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/SE-MOT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
