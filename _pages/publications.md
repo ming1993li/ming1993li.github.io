@@ -54,7 +54,7 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/XSGS.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>X-SGS: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks</b><br>Zihang Cheng, Huiping Zhuang, Chun Li, Xin Meng, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/XSGS.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>X-SGS: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks</b><br>Zihang Cheng, Huiping Zhuang, Chun Li, Xin Meng, <b>Ming Li</b>*, Fei Richard Yu, Liqiang Nie. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/abs/2502.10475">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
