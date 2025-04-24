@@ -16,7 +16,7 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/Cyc3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization</b><br>Hongbin Xu, Chaohui Yu, Feng Xiao, Jiazheng Xing, Hai Ci, Weitao Chen and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/CyC3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>CyC3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization</b><br>Hongbin Xu, Chaohui Yu, Feng Xiao, Jiazheng Xing, Hai Ci, Weitao Chen and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/abs/2504.14975">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
