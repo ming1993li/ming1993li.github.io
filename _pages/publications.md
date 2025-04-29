@@ -59,11 +59,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
-<p>
-<img src="https://ming1993li.github.io/images/Inter3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction</b><br>Gan Chen, Ying He, Mulin Yu, F.Richard Yu, Gang Xu, Fei Ma, <b>Ming Li</b>* and Guang Zhou. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/pdf/2502.14004">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/WMarkGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models</b><br>Songbai Tan, Yao Shu, Xuerui Qiu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
@@ -115,6 +110,14 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 [<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
 <br clear="left">
 </p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/Inter3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction</b><br>Gan Chen, Ying He, Mulin Yu, F.Richard Yu, Gang Xu, Fei Ma, <b>Ming Li</b>* and Guang Zhou. <i>IJCAI</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/pdf/2502.14004">Paper</a>][<a href="https://github.com/Inter3D-ui/Inter3D">Code</a>]
+<br clear="left">
+</p>
+
 
 <p>
 <img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>Shaoyu liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>CVPR</i>. 2025. (*Corresponding Authors)<br> 
