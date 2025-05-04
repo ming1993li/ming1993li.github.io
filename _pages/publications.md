@@ -59,13 +59,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
-
-<p>
-<img src="https://ming1993li.github.io/images/WMarkGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models</b><br>Songbai Tan, Yao Shu, Xuerui Qiu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
 <p>
 <img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, and Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="http://arxiv.org/abs/2412.00334">Paper</a>][<a href="http://arxiv.org/abs/2412.00334">Project</a>]
@@ -111,6 +104,11 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/WMarkGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models</b><br>Songbai Tan, Yao Shu, Xuerui Qiu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, <b>Ming Li</b>* and Fei Richard Yu. <i>ICML</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/Inter3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction</b><br>Gan Chen, Ying He, Mulin Yu, F.Richard Yu, Gang Xu, Fei Ma, <b>Ming Li</b>* and Guang Zhou. <i>IJCAI</i>. 2025. (*Corresponding Authors)<br> 
