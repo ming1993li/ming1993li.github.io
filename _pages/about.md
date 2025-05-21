@@ -30,10 +30,14 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Apr. 2025]</b> Three papers are accepted by ICML 2025. Congratulations to Songbai, Xiang Zhang, and Run He!
+    
+  <li> <b>[Apr. 2025]</b> One paper is accepted by IJCAI 2025. Congratulations to Gan Chen!
   
   <li> <b>[Apr. 2025]</b> Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
     
-  <li> <b>[Feb. 2025]</b> Two papers are accepted by CVPR 2025, one of the top-tier AI/CV conferences. Congratulations!
+  <li> <b>[Feb. 2025]</b> Two papers are accepted by CVPR 2025, one of the top-tier AI/CV conferences. Congratulations to Shaoyu and Weilong!
 
   <li> <b>[Feb. 2025]</b> One paper is accepted by IEEE TMM. Congratulations!
     
