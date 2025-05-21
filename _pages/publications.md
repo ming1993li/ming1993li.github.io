@@ -10,6 +10,12 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 
 <p>
+<img src="https://ming1993li.github.io/images/SafeSora.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking</b><br>Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Junhao Zhuang, Chun Yuan, <b>Ming Li</b>*, Shengfeng He, and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/pdf/2505.12667">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/unif2ace.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models</b><br>Junzhe Li, Xuerui Qiu, Linrui Xu, Liya Guo, Delin Qu, Tingting Long, Chun Fan and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/pdf/2503.08120">Paper</a>][<a href="https://huggingface.co/papers/2503.08120">Project</a>]
 <br clear="left">
