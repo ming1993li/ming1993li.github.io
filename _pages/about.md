@@ -30,7 +30,8 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-
+  <li> <b>[Jun. 2025]</b> I was invited as a Guest Speaker at the Global Artificial Intelligence Technology Conference 2025, held on June 7–8 in Hangzhou, Zhejiang, China!
+    
   <li> <b>[Apr. 2025]</b> Three papers are accepted by ICML 2025. Congratulations to Songbai, Xiang Zhang, and Run He!
     
   <li> <b>[Apr. 2025]</b> One paper is accepted by IJCAI 2025. Congratulations to Gan Chen!
