@@ -11,7 +11,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/SafeSora.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking</b><br>Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Junhao Zhuang, Chun Yuan, <b>Ming Li</b>*, Shengfeng He, and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/pdf/2505.12667">Paper</a>][<a href="">Project</a>]
+[<a href="https://arxiv.org/pdf/2505.12667">Paper</a>][<a href="https://sugewud.github.io/Safe-Sora-project/">Project</a>]
 <br clear="left">
 </p>
 
