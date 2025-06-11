@@ -95,14 +95,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
-
-<p>
-<img src="https://ming1993li.github.io/images/Zhipeng.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Uncertainty Quantification for Incomplete Multi-View Data Using Divergence Measures</b><br>Zhipeng Xue†, Yan Zhang†, <b>Ming Li</b>†, Chun Li, Yue Liu, and Fei Richard Yu. <i>Under Review</i>. 2024. (†Equal Contributors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
 <p>
 <img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
@@ -132,6 +124,13 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 
 <p>
 <img src="https://ming1993li.github.io/images/depth.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors</b><br>Weilong Yan, <b>Ming Li</b>*, Haipeng Li, Shuwei Shao, Robby T. Tan. <i>CVPR</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/Zhipeng.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>Uncertainty Quantification for Incomplete Multi-View Data Using Divergence Measures</b><br>Zhipeng Xue†, Yan Zhang†, <b>Ming Li</b>†, Chun Li, Yue Liu, and Fei Richard Yu. <i>IEEE TIP</i>. 2025. (†Equal Contributors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
