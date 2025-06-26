@@ -152,7 +152,7 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 
 <p>
 <img src="https://ming1993li.github.io/images/SPADE.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning</b><br>XIN Hu, Ke Qin, Guiduo Duan, Ming Li, Yuan-Fang Li, Tao He. <i>ICCV</i>. 2025.<br> 
+<b>SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning</b><br>XIN Hu, Ke Qin, Guiduo Duan, <b>Ming Li</b>, Yuan-Fang Li, Tao He. <i>ICCV</i>. 2025.<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
