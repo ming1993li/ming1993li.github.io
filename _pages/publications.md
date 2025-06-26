@@ -42,13 +42,6 @@ author_profile: true
 
 
 <p>
-<img src="https://ming1993li.github.io/images/pvchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>PVChat: Personalized Video Chat with One-Shot Learning</b><br>Yufei Shi†, Weilong Yan†, Gang Xu, Yumeng Li, Yucheng Chen,
-Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. (*Corresponding Authors, †Equal Contributors)<br>[<a href="https://arxiv.org/pdf/2503.17069">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
 <img src="https://ming1993li.github.io/images/safe-var.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking</b><br>Ziyi Wang, Songbai Tan, Gang Xu, Xuerui Qiu, Hongbin Xu, Xin Meng, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br>[<a href="https://arxiv.org/pdf/2503.11324">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -64,13 +57,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 [<a href="https://arxiv.org/abs/2502.10475">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
-
-<p>
-<img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, and Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="http://arxiv.org/abs/2412.00334">Paper</a>][<a href="http://arxiv.org/abs/2412.00334">Project</a>]
-<br clear="left">
-</p>
-
 
 <p>
 <img src="https://ming1993li.github.io/images/SE-MOT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
@@ -102,11 +88,33 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 <br clear="left">
 </p>
 
+
+<p>
+<img src="https://ming1993li.github.io/images/pvchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>PVChat: Personalized Video Chat with One-Shot Learning</b><br>Yufei Shi†, Weilong Yan†, Gang Xu, Yumeng Li, Yucheng Chen,
+Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corresponding Authors, †Equal Contributors)<br>[<a href="https://arxiv.org/pdf/2503.17069">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
 <p>
 <img src="https://ming1993li.github.io/images/WMarkGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models</b><br>Songbai Tan, Yao Shu, Xuerui Qiu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, <b>Ming Li</b>* and Fei Richard Yu. <i>ICML</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/FedVLA.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation</b><br>Cui Miao, Tao Chang, Meihan Wu, Hongbin Xu, Chun Li, <b>Ming Li</b>*, Xiaodong Wang. <i>ICCV</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, and Xiaodong Wang. <i>ICCV</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="http://arxiv.org/abs/2412.00334">Paper</a>][<a href="http://arxiv.org/abs/2412.00334">Project</a>]
+<br clear="left">
+</p>
+
 
 <p>
 <img src="https://ming1993li.github.io/images/Inter3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction</b><br>Gan Chen, Ying He, Mulin Yu, F.Richard Yu, Gang Xu, Fei Ma, <b>Ming Li</b>* and Guang Zhou. <i>IJCAI</i>. 2025. (*Corresponding Authors)<br> 
@@ -141,6 +149,14 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>Under Review</i>. 2025. 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
+
+<p>
+<img src="https://ming1993li.github.io/images/SPADE.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning</b><br>XIN Hu, Ke Qin, Guiduo Duan, Ming Li, Yuan-Fang Li, Tao He. <i>ICCV</i>. 2025.<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
 
 <p>
 <img src="https://ming1993li.github.io/images/slam.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
