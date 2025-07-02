@@ -152,7 +152,7 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 
 <p>
 <img src="https://ming1993li.github.io/images/Runze.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Robust Brain Tumor Segmentation with Incomplete MRI Modalities Using H¨older Divergence and Mutual Information-Enhanced Knowledge Transfer</b><br>Runze Cheng†, Xihang Qiu†, <b>Ming Li</b>†, Ye Zhang, Chun Li* and Fei Richard Yu. <i>IEEE/CAA Journal of Automatic Sinica</i>. 2025. (†Equal Contributors)<br> 
+<b>Robust Brain Tumor Segmentation with Incomplete MRI Modalities Using H¨older Divergence and Mutual Information-Enhanced Knowledge Transfer</b><br>Runze Cheng†, Xihang Qiu†, <b>Ming Li</b>†, Ye Zhang, Chun Li and Fei Richard Yu. <i>IEEE/CAA Journal of Automatic Sinica</i>. 2025. (†Equal Contributors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
