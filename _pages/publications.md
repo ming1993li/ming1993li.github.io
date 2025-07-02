@@ -89,7 +89,7 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 
 <p>
 <img src="https://ming1993li.github.io/images/WMarkGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models</b><br>Songbai Tan, Yao Shu, Xuerui Qiu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, <b>Ming Li</b>* and Fei Richard Yu. <i>ICML</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
+[<a href="https://openreview.net/pdf?id=HjVhSL76GM">Paper</a>][<a href="https://github.com/TanSongBai/WMarkGPT?tab=readme-ov-file">Project</a>]
 <br clear="left">
 </p>
 
