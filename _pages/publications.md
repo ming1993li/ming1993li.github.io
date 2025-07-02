@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <i class="fa fa-fw fa-copy"></i> Publications #
+# <i class="fa fa-fw fa-copy"></i> Publications 27 Papers#
 
 <!-- ## Conference Articles ## -->
 
