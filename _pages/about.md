@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I am a Senior Research Scientist and Principal Investigator in Guangming Lab, Shenzhen. I am leading a team (about 15 people) conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published ***28 papers***, including 15 first/corresponding-author papers (I IJCV, 1 ICML, 1 CVPR, 5 ICCV, 1 IJCAI, 1 IEEE TIP, 3 IEEE TMM (One ESI Highly
+* I am a Senior Research Scientist and Principal Investigator in Guangming Lab, Shenzhen. I am leading a team (about 15 people) conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **28 papers**, including 15 first/corresponding-author papers (I IJCV, 1 ICML, 1 CVPR, 5 ICCV, 1 IJCAI, 1 IEEE TIP, 3 IEEE TMM (One ESI Highly
 Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 ACM MM, 3 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI and 2 ICPR). I worked as a research scientist intern at Sea AI Lab and Shanghai AI Lab.
 
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
