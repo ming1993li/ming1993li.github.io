@@ -118,7 +118,7 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/depth.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors</b><br>Weilong Yan, <b>Ming Li</b>*, Haipeng Li, Shuwei Shao, Robby T. Tan. <i>CVPR</i>. 2025. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/depth.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors</b><br>Weilong Yan, <b>Ming Li</b>, Haipeng Li, Shuwei Shao, Robby T. Tan. <i>CVPR</i>. 2025.<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -179,7 +179,7 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 
 <p>
 <img src="https://ming1993li.github.io/images/omnistyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>OmniStyle: Attention-Optimized Global and Local Image Stylization with Diffusion Model Inversion</b><br>Jiarong Cheng, Xihang Qiu, Qing Zhou, <b>Ming Li</b>*, Chun Li*, Yao Lu and Fei Richard Yu. <i>ICME</i>. 2025. (*Corresponding Authors)<br> 
+<b>OmniStyle: Attention-Optimized Global and Local Image Stylization with Diffusion Model Inversion</b><br>Jiarong Cheng, Xihang Qiu, Qing Zhou, <b>Ming Li</b>, Chun Li, Yao Lu and Fei Richard Yu. <i>ICME</i>. 2025. <br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
