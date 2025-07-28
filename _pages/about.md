@@ -31,6 +31,8 @@ Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jul. 2025]</b> One paper is accepted by ACM MM 2025. Congratulations to Zhicong!
+  
   <li> <b>[Jun. 2025]</b> Three papers are accepted by ICCV 2025. Congratulations to Cui Miao, Meihan, and Yufei!
   
   <li> <b>[Jun. 2025]</b> I was invited as a Guest Speaker at the Global Artificial Intelligence Technology Conference 2025, held on June 7–8 in Hangzhou, Zhejiang, China!
