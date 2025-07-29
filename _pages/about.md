@@ -12,6 +12,7 @@ redirect_from:
 * I am a Senior Research Scientist and Principal Investigator in Guangming Lab, Shenzhen. I am leading a team (about 15 people) conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **29 papers**, including 16 first/corresponding-author papers (I IJCV, 1 ICML, 1 CVPR, 5 ICCV, 1 IEEE TIP, 1 IJCAI, 1 ACM MM, 3 IEEE TMM (One ESI Highly
 Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 ACM MM, 3 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI and 2 ICPR). I worked as a research scientist intern at Sea AI Lab and Shanghai AI Lab.
 
+* Academic Services: Area Chair of WACV 2026; Regular Reviewer of TPAMI, IJCV, NeurIPS, CVPR, ICCV.
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
 
 
@@ -23,8 +24,6 @@ Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV
   * Our IJCV paper, Instant3D, attracts many cooperation invitations from famous institutes, like Gaorong Capital, Huawei, miHoYo, and the University of Michigan, which presents a novel fast text-to-3D generation paradigm.
   * Our paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification," published on IEEE Transactions on Multimedia, has been repeatedly selected as an ESI Highly Cited Paper.
   * My results on AI City Challenge 2020 Track3: City-Scale Multi-Camera Vehicle Tracking rank 1st on the official leaderboard, which surpasses the second ones by very large margins! The challenge is organized by NVIDIA at CVPR 2020.
-
-* Academic services: I am a regular reviewer for IEEE TPAMI, CVPR, ICCV, NeurIPS, AAAI, IEEE TMM, IEEE TIP, IEEE TNNLS, and Neurocomputing.
 
 * I was a full-time Research Assistant in [VISLab](https://zhang-vislab.github.io) supervised by [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021. Before that, I worked as an RA supervised by [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN) (Fellow of IEEE, AIMBE, IAPR, MICCAI) at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. I graduated with a Master's degree from [School of EECS](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in Jul. 2018. And I received my Bachelor's degree from the School of EE of [Xidian University](https://en.xidian.edu.cn/index.htm) in Jul. 2015. 
 
