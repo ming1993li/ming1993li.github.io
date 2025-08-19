@@ -29,8 +29,8 @@ Awards
 
 Work experience
 ======
-* Jul. 2024 - Now: Full Professor and PI
-  * Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)
+* Jul. 2024 - Now: Senior Research Scientist (Talent Star Plan)
+  * Guangming Lab, Shenzhen, China
   * Research interest: AIGC, multi-modal large language models, embodied AI 
     
 * Nov. 2019 - Apr. 2021: Research Assistant
