@@ -49,20 +49,6 @@ author_profile: true
 <br clear="left">
 </p>
 
-<p>
-<img src="https://ming1993li.github.io/images/SE-MOT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>SE-MOT: End-to-End Multi-Object Tracking in Low-Quality Video Scenes Guided by Semantic Enhancement</b><br>Jun Du , Weiwei Xing, <b>Ming Li</b>*, and Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
-<img src="https://ming1993li.github.io/images/resilience.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Resilient Missing-Modality MRI Segmentation Based on Mamba State-Space Modeling and Information-Theoretic Criteria</b><br>Runze Cheng, Xihang Qiu, Jiarong Cheng, Xiangyu Xue, Ye Zhang, Chun Li, <b>Ming Li</b>*, and Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/SafeSora.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking</b><br>Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Junhao Zhuang, Chun Yuan, <b>Ming Li</b>*, Shengfeng He, and Fei Richard Yu. <i>NeurIPS</i>. 2025. (*Corresponding Authors)<br> 
