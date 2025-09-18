@@ -8,13 +8,6 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <!-- ## Conference Articles ## -->
-
-<p>
-<img src="https://ming1993li.github.io/images/SafeSora.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking</b><br>Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Junhao Zhuang, Chun Yuan, <b>Ming Li</b>*, Shengfeng He, and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/pdf/2505.12667">Paper</a>][<a href="https://sugewud.github.io/Safe-Sora-project/">Project</a>]
-<br clear="left">
-</p>
-
 <p>
 <img src="https://ming1993li.github.io/images/StyleTailor.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</b><br>Hongbo Ma, Fei Shen, Hongbin Xu, Xiaoce Wang, Gang Xu, Jinkai Zheng, Liangqiong Qu and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/pdf/2508.06555">Paper</a>][<a href="https://mahb-thu.github.io/StyleTailor.github.io/">Project</a>]
@@ -72,12 +65,10 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
-[<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
+<img src="https://ming1993li.github.io/images/SafeSora.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking</b><br>Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Junhao Zhuang, Chun Yuan, <b>Ming Li</b>*, Shengfeng He, and Fei Richard Yu. <i>NeurIPS</i>. 2025. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/pdf/2505.12667">Paper</a>][<a href="https://sugewud.github.io/Safe-Sora-project/">Project</a>]
 <br clear="left">
 </p>
-
 
 <p>
 <img src="https://ming1993li.github.io/images/pvchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>PVChat: Personalized Video Chat with One-Shot Learning</b><br>Yufei Shi†, Weilong Yan†, Gang Xu, Yumeng Li, Yucheng Chen,
@@ -157,6 +148,12 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>Neurocomputing</i>. 2025.<br>
+[<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/slam.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
