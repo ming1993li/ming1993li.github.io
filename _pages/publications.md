@@ -15,7 +15,7 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/unif2ace.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models</b><br>Junzhe Li, Xuerui Qiu, Linrui Xu, Liya Guo, Delin Qu, Tingting Long, Chun Fan and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/unif2ace.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: A Unified Fine-grained Face Understanding and Generation Model</b><br>Junzhe Li1, Sifan Zhou2, Liya Guo, Xuerui Qiu, Linrui Xu, Delin Qu, Tingting Long, Chun Fan,<b>Ming Li</b>*, Hehe Fan, Jun Liu, Shuicheng Yan. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/pdf/2503.08120">Paper</a>][<a href="https://huggingface.co/papers/2503.08120">Project</a>]
 <br clear="left">
 </p>
