@@ -31,7 +31,7 @@ Cited Paper), 1 ICME, 1 IJAS) and 14 other-author papers (2 ICML, 1 CVPR, 1 ICCV
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-    <li> <b>[Nov. 2025]</b> Three papers are accepted by AAAI 2026, specially including an **Oral Presentation** paper! Congratulations to Hongbo, Hongbin, and Zichen! 
+    <li> <b>[Nov. 2025]</b> Three papers are accepted by AAAI 2026, specially including an <b>Oral Presentation</b> paper! Congratulations to Hongbo, Hongbin, and Zichen! 
   
    <li> <b>[Jul. 2025]</b> One paper is accepted by NeurIPS 2025. Congratulations to Zihan!
   
