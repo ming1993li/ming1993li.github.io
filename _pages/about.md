@@ -9,8 +9,8 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I am a Senior Research Scientist (Talent Star Plan) in Guangming Lab, Shenzhen. I am conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **30 papers**, including 17 first or corresponding-author papers (1 IJCV, 1 ICML, 1 NeurIPS, 1 CVPR, 5 ICCV, 1 IEEE TIP, 1 IJCAI, 1 ACM MM, 3 IEEE TMM (One ESI Highly
-Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 ACM MM, 2 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI, 1 Neurocomputing, and 2 ICPR). I worked as a research scientist intern at Sea AI Lab.
+* I am a Senior Research Scientist (Talent Star Plan) in Guangming Lab, Shenzhen. I am conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **33 papers**, including 19 first or corresponding-author papers (1 IJCV, 1 ICML, 1 NeurIPS, 1 CVPR, 5 ICCV, 1 IEEE TIP, 2 AAAI, 1 IJCAI, 1 ACM MM, 3 IEEE TMM (One ESI Highly
+Cited Paper), 1 ICME, 1 IJAS) and 14 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI, 1 ACM MM, 2 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI, 1 Neurocomputing, and 2 ICPR). I worked as a research scientist intern at Sea AI Lab.
 
 * Academic Services: Area Chair of WACV 2026; Regular Reviewer of TPAMI, IJCV, NeurIPS, CVPR, ICCV.
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
@@ -20,6 +20,7 @@ Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV
 
 * Highlights:
   * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
+  * Our AAAI 2026 paper "StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback" on Agentic AI is selected as Oral Presentation!
   * Our team advances to the finals of the 2024 Shenzhen Intelligent Robot Dexterous Hand Competition and is awarded the Excellence Prize.
   * Our IJCV paper, Instant3D, attracts many cooperation invitations from famous institutes, like Gaorong Capital, Huawei, miHoYo, and the University of Michigan, which presents a novel fast text-to-3D generation paradigm.
   * Our paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification," published on IEEE Transactions on Multimedia, has been repeatedly selected as an ESI Highly Cited Paper.
@@ -30,6 +31,8 @@ Cited Paper), 1 ICME, 1 IJAS) and 13 other-author papers (2 ICML, 1 CVPR, 1 ICCV
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+    <li> <b>[Nov. 2025]</b> Three papers are accepted by AAAI 2026, specially including an **Oral Presentation** paper! Congratulations to Hongbo, Hongbin, and Zichen! 
+  
    <li> <b>[Jul. 2025]</b> One paper is accepted by NeurIPS 2025. Congratulations to Zihan!
   
   <li> <b>[Jul. 2025]</b> One paper is accepted by ACM MM 2025. Congratulations to Zhicong!
