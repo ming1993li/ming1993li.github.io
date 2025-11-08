@@ -8,21 +8,10 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <!-- ## Conference Articles ## -->
-<p>
-<img src="https://ming1993li.github.io/images/StyleTailor.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</b><br>Hongbo Ma, Fei Shen, Hongbin Xu, Xiaoce Wang, Gang Xu, Jinkai Zheng, Liangqiong Qu and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/pdf/2508.06555">Paper</a>][<a href="https://mahb-thu.github.io/StyleTailor.github.io/">Project</a>]
-<br clear="left">
-</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/unif2ace2.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: A Unified Fine-grained Face Understanding and Generation Model</b><br>Junzhe Li, Sifan Zhou, Liya Guo, Xuerui Qiu, Linrui Xu, Delin Qu, Tingting Long, Chun Fan, <b>Ming Li</b>*, Hehe Fan, Jun Liu, and Shuicheng Yan. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/pdf/2503.08120">Paper</a>][<a href="https://huggingface.co/papers/2503.08120">Project</a>]
-<br clear="left">
-</p>
-
-<p>
-<img src="https://ming1993li.github.io/images/CyC3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>CyC3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization</b><br>Hongbin Xu, Chaohui Yu, Feng Xiao, Jiazheng Xing, Hai Ci, Weitao Chen and <b>Ming Li</b>*. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/abs/2504.14975">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
@@ -49,6 +38,18 @@ author_profile: true
 <br clear="left">
 </p>
 
+
+<p>
+<img src="https://ming1993li.github.io/images/StyleTailor.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</b><br>Hongbo Ma, Fei Shen, Hongbin Xu, Xiaoce Wang, Gang Xu, Jinkai Zheng, Liangqiong Qu and <b>Ming Li</b>*. <i>AAAI</i>. 2026. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/pdf/2508.06555">Paper</a>][<a href="https://mahb-thu.github.io/StyleTailor.github.io/">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/CyC3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>CyC3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization</b><br>Hongbin Xu, Chaohui Yu, Feng Xiao, Jiazheng Xing, Hai Ci, Weitao Chen and <b>Ming Li</b>*. <i>AAAI</i>. 2026. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/abs/2504.14975">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/SafeSora.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking</b><br>Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Junhao Zhuang, Chun Yuan, <b>Ming Li</b>*, Shengfeng He, and Fei Richard Yu. <i>NeurIPS</i>. 2025. (*Corresponding Authors)<br> 
