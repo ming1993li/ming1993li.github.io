@@ -10,16 +10,25 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 
 <p>
-<img src="https://ming1993li.github.io/images/unif2ace2.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: A Unified Fine-grained Face Understanding and Generation Model</b><br>Junzhe Li, Sifan Zhou, Liya Guo, Xuerui Qiu, Linrui Xu, Delin Qu, Tingting Long, Chun Fan, <b>Ming Li</b>*, Hehe Fan, Jun Liu, and Shuicheng Yan. <i>Under Review</i>. 2025. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/unif2ace2.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: A Unified Fine-grained Face Understanding and Generation Model</b><br>Junzhe Li, Sifan Zhou, Liya Guo, Xuerui Qiu, Linrui Xu, Delin Qu, Tingting Long, Chun Fan, <b>Ming Li</b>*, Hehe Fan, Jun Liu, and Shuicheng Yan. <i>Under Review</i>. 2026. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/pdf/2503.08120">Paper</a>][<a href="https://huggingface.co/papers/2503.08120">Project</a>]
 <br clear="left">
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FaVChat: Hierarchical Prompt-Query Guided Facial Video Understanding with Data-Efficient GRPO</b><br>Fufangchen Zhao†, Xuerui Qiu†, Linrui Xu, <b>Ming Li</b>*, Wenhao Jiang, Jinkai Zheng, Hehe Fan, Jian Gao, and Danfeng Yan. <i>Under Review</i>. 2025. (*Corresponding Authors, †Equal Contributors)<br>[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FaVChat: Hierarchical Prompt-Query Guided Facial Video Understanding with Data-Efficient GRPO</b><br>Fufangchen Zhao†, Xuerui Qiu†, Linrui Xu, <b>Ming Li</b>*, Wenhao Jiang, Jinkai Zheng, Hehe Fan, Jian Gao, and Danfeng Yan. <i>Under Review</i>. 2026. (*Corresponding Authors, †Equal Contributors)<br>[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/yocity.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion</b><br>Keyang Lu, Sifan Zhou, Hongbin Xu, Gang Xu, Zhifei Yang, Yikai Wang, Zhen Xiao, Jieyi Long, and <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Authors)<br>[<a href="https://www.arxiv.org/pdf/2511.18734">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/scieducator.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System</b><br>Zhiyu Xu, Weilong Yan, Yufei Shi, Xin Meng, Tao He, Huiping Zhuang, <b>Ming Li</b>*, and Hehe Fan. <i>Under Review</i>. 2026. (*Corresponding Authors)<br>[<a href="https://www.arxiv.org/pdf/2511.17943">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/safe-var.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking</b><br>Ziyi Wang, Songbai Tan, Gang Xu, Xuerui Qiu, Hongbin Xu, Xin Meng, <b>Ming Li</b>* and Fei Richard Yu. <i>Under Review</i>. 2025. (*Corresponding Authors)<br>[<a href="https://arxiv.org/pdf/2503.11324">Paper</a>][<a href="">Project</a>]
