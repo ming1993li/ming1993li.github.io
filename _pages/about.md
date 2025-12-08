@@ -31,9 +31,12 @@ Cited Paper), 1 IJAS) and 15 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-    <li> <b>[Nov. 2025]</b> Three papers are accepted by AAAI 2026, specially including an <b>Oral Presentation</b> paper! Congratulations to Hongbo, Hongbin, and Zichen! 
+
+  <li> <b>[Dec. 2025]</b> I am very pleased to give an invited talk about "Fine-grained Multi-modal Learning and Reasoning" at the School of Computer Science, Zhejiang University, Hangzhou.</li>
   
-   <li> <b>[Jul. 2025]</b> One paper is accepted by NeurIPS 2025. Congratulations to Zihan!
+  <li> <b>[Nov. 2025]</b> Three papers are accepted by AAAI 2026, specially including an <b>Oral Presentation</b> paper! Congratulations to Hongbo, Hongbin, and Zichen! 
+  
+  <li> <b>[Jul. 2025]</b> One paper is accepted by NeurIPS 2025. Congratulations to Zihan!
   
   <li> <b>[Jul. 2025]</b> One paper is accepted by ACM MM 2025. Congratulations to Zhicong!
   
