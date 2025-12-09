@@ -9,8 +9,8 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I am a Senior Research Scientist (Talent Star Plan) in Guangming Lab, Shenzhen. I am conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **33 papers**, including 18 first or corresponding-author papers (1 IJCV, 1 ICML, 1 NeurIPS, 1 CVPR, 5 ICCV, 1 IEEE TIP, 2 AAAI, 1 IJCAI, 1 ACM MM, 3 IEEE TMM (One ESI Highly
-Cited Paper), 1 IJAS) and 15 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI, 1 ACM MM, 3 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI, 1 Neurocomputing, and 2 ICPR). I worked as a research scientist intern at Sea AI Lab.
+* I am a Senior Research Scientist (Talent Star Plan) in Guangming Lab, Shenzhen. I am conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **34 papers**, including 18 first or corresponding-author papers (1 IJCV, 1 ICML, 1 NeurIPS, 1 CVPR, 5 ICCV, 1 IEEE TIP, 2 AAAI, 1 IJCAI, 1 ACM MM, 3 IEEE TMM (One ESI Highly
+Cited Paper), 1 IJAS) and 16 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI, 1 ACM MM, 3 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI, 1 Neurocomputing, 1 JMSE, and 2 ICPR). I worked as a research scientist intern at Sea AI Lab.
 
 * Academic Services: Associate Editor of IEEE Transactions on Industrial Informatics; Area Chair of WACV 2026; Regular Reviewer of TPAMI, IJCV, NeurIPS, CVPR, ICCV.
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
