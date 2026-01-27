@@ -10,12 +10,6 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 
 <p>
-<img src="https://ming1993li.github.io/images/unif2ace2.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: A Unified Fine-grained Face Understanding and Generation Model</b><br>Junzhe Li, Sifan Zhou, Liya Guo, Xuerui Qiu, Linrui Xu, Delin Qu, Tingting Long, Chun Fan, <b>Ming Li</b>*, Hehe Fan, Jun Liu, and Shuicheng Yan. <i>Under Review</i>. 2026. (*Corresponding Author)<br> 
-[<a href="https://arxiv.org/pdf/2503.08120">Paper</a>][<a href="https://huggingface.co/papers/2503.08120">Project</a>]
-<br clear="left">
-</p>
-
-<p>
 <img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FaVChat: Hierarchical Prompt-Query Guided Facial Video Understanding with Data-Efficient GRPO</b><br>Fufangchen Zhao†, Xuerui Qiu, Linrui Xu, <b>Ming Li</b>*, Wenhao Jiang, Jinkai Zheng, Hehe Fan, Jian Gao, and Danfeng Yan. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -47,6 +41,17 @@ author_profile: true
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/unif2ace2.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>UniF^2ace: A Unified Fine-grained Face Understanding and Generation Model</b><br>Junzhe Li, Sifan Zhou, Liya Guo, Xuerui Qiu, Linrui Xu, Delin Qu, Tingting Long, Chun Fan, <b>Ming Li</b>*, Hehe Fan, Jun Liu, and Shuicheng Yan. <i>ICLR</i>. 2026. (*Corresponding Author)<br> 
+[<a href="https://arxiv.org/pdf/2503.08120">Paper</a>][<a href="https://huggingface.co/papers/2503.08120">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/eventflash.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventFlash: Towards Efficient MLLMs for Event-Based Vision</b><br>Shaoyu Liu, Jianing Li, guanghui zhao, Yunjian Zhang, Wen Jiang, <b>Ming Li</b>*, Xiangyang Ji. <i>ICLR</i>. 2026. (*Corresponding Author)<br> 
+[<a href="https://openreview.net/forum?id=QuvGqzLwf6">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/StyleTailor.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</b><br>Hongbo Ma, Fei Shen, Hongbin Xu, Xiaoce Wang, Gang Xu, Jinkai Zheng, Liangqiong Qu and <b>Ming Li</b>*. <i>AAAI</i>. 2026. (*Corresponding Author)<br> 
