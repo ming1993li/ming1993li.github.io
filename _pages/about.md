@@ -19,6 +19,7 @@ Cited Paper), 1 IJAS) and 18 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI
 * I completed my Ph.D. study (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) (Fellow of AAAI, ACM, IEEE) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Prof. Fei Richard Yu](https://scholar.google.ca/citations?user=zuGMGBoAAAAJ&hl=en) (Member of the Academia Europaea, Fellow of Canadian Academy of Engineering, IEEE), [Prof. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN) (Stanford’s Top 2% Most Highly Cited Scientist), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun).
 
 * Highlights:
+  * The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) is adopted in the unified model [Bagel](https://bagel-ai.org/) from Bytedance Seed!
   * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
   * Our AAAI 2026 paper "StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback" on Agentic AI is selected as Oral Presentation!
   * Our team advances to the finals of the 2024 Shenzhen Intelligent Robot Dexterous Hand Competition and is awarded the Excellence Prize.
@@ -31,7 +32,9 @@ Cited Paper), 1 IJAS) and 18 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-
+  
+  <li> <b>[Jan. 2026]</b> Two papers are accepted by ICLR 2026. Congratulations to Junzhe and Shaoyu!
+  
   <li> <b>[Dec. 2025]</b> I am very pleased to give an invited talk about "Fine-grained Multi-modal Learning and Reasoning" at the School of Computer Science, Zhejiang University, Hangzhou.</li>
   
   <li> <b>[Nov. 2025]</b> Three papers are accepted by AAAI 2026, specially including an <b>Oral Presentation</b> paper! Congratulations to Hongbo, Hongbin, and Zichen! 
