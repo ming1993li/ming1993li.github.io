@@ -12,13 +12,13 @@ redirect_from:
 * I am a Senior Research Scientist (Genius Nova Program) in Guangming Lab, Shenzhen. I am conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. I have published **38 papers**, including 20 first or corresponding-author papers (1 IJCV, 1 ICML, 2 ICLR, 1 NeurIPS, 1 CVPR, 5 ICCV, 1 IEEE TIP, 2 AAAI, 1 IJCAI, 1 ACM MM, 3 IEEE TMM (One ESI Highly
 Cited Paper), 1 IJAS) and 18 other-author papers (2 ICML, 1 CVPR, 1 ICCV, 1 AAAI, 1 ACM MM, 1 PR, 3 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI, 1 Neurocomputing, 2 JMSE, and 2 ICPR). I worked as a research scientist intern at Sea AI Lab.
 
-* Academic Services: Associate Editor of IEEE Transactions on Industrial Informatics; Associate Editor of Neurocomputing; Area Chair of WACV 2026; Regular Reviewer of TPAMI, IJCV, NeurIPS, CVPR, ICCV.
+* Academic Services: Associate Editor of IEEE Transactions on Industrial Informatics; Area Chair of WACV 2026; Regular Reviewer of TPAMI, IJCV, ICML, ICLR, NeurIPS, CVPR, ICCV.
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
 
 
 * I completed my Ph.D. study (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) (Fellow of AAAI, ACM, IEEE) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Prof. Fei Richard Yu](https://scholar.google.ca/citations?user=zuGMGBoAAAAJ&hl=en) (Member of the Academia Europaea, Fellow of Canadian Academy of Engineering, IEEE), [Prof. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN) (Stanford’s Top 2% Most Highly Cited Scientist), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun).
 
-* Highlights:
+* Many of my research outcomes have been recognized by leading experts, public media, prestigious universities, investment partners, highly cited indicators, and top-tier conference oral presentations.
   * The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) is adopted in the unified model [Bagel](https://bagel-ai.org/) from Bytedance Seed!
   * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
   * Our AAAI 2026 paper "StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback" on Agentic AI is selected as Oral Presentation!
