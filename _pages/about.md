@@ -33,7 +33,7 @@ Cited Paper), 1 IJAS) and 21 other-author papers (2 ICML, 4 CVPR, 1 ICCV, 1 AAAI
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Feb. 2026]</b> Two papers are accepted by CVPR 2026. Congratulations to Keyang and Zhiyu!
+  <li> <b>[Feb. 2026]</b> Five papers are accepted by CVPR 2026. Congratulations to Keyang, Zhiyu, and others!
   
   <li> <b>[Jan. 2026]</b> Two papers are accepted by ICLR 2026. Congratulations to Junzhe and Shaoyu!
   
