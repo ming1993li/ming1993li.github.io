@@ -20,15 +20,15 @@ Cited Paper), 1 IJAS) and 21 other-author papers (2 ICML, 4 CVPR, 1 ICCV, 1 AAAI
 
 * Many of my research outcomes have been recognized by leading experts, public media, prestigious universities, investment partners, highly cited indicators, and top-tier conference oral presentations:
 
-    * 9. The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) to handle the fundamental pattern conflicts in unified models is adopted in Bagel developed by a **world-class AI team** Bytedance (TikTok) Seed!\\
-    * 8. In Mar. 2025, **much earlier than Qwen3-VL** (Nov. 2025), we propose deepstack-based multi-granularity visual feature injection in our FaVChat paper to boost the VLMs' capability of answering fine-grained questions.\\
-    * 7. Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from many famous research groups. The work was also featured by the **prominent AI platform** Prompt Layer.\\
-    * 6. Our multiple research studies received **positive recognitions from leading experts**, such as the Member of the U.S. National Academy of Engineering and the Member of Academia Europaea.\\
-    * 5. Our AAAI 2026 paper on Agentic AI, StyleTailor, is accepted as an **Oral Presentation (top 4\%)**.\\
-    * 4. Our IJCV paper, Instant3D, attracts many **cooperation invitations from famous institutes**, like the University of Michigan, Huawei, and miHoYo, which presents a novel fast text-to-3D generation paradigm. \\
-    * 3. The leading investment partner Gaorong Ventures also discusses its **commercialization and real-world potential**.\\
-    * 2. Our IEEE TMM paper for vehicle re-Identification has been repeatedly selected as an **ESI Highly Cited Paper**.\\
-    * 1. My results on Track3 of AI City Challenge, organized by NVIDIA on CVPR 2020, **rank 1st** on the official leaderboard, which surpasses the second ones by very large margins!\\
+    * 9. The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) to handle the fundamental pattern conflicts in unified models is adopted in Bagel developed by a **world-class AI team** Bytedance (TikTok) Seed!
+    * 8. In Mar. 2025, **much earlier than Qwen3-VL** (Nov. 2025), we propose deepstack-based multi-granularity visual feature injection in our FaVChat paper to boost the VLMs' capability of answering fine-grained questions.
+    * 7. Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from many famous research groups. The work was also featured by the **prominent AI platform** Prompt Layer.
+    * 6. Our multiple research studies received **positive recognitions from leading experts**, such as the Member of the U.S. National Academy of Engineering and the Member of Academia Europaea.
+    * 5. Our AAAI 2026 paper on Agentic AI, StyleTailor, is accepted as an **Oral Presentation (top 4\%)**.
+    * 4. Our IJCV paper, Instant3D, attracts many **cooperation invitations from famous institutes**, like the University of Michigan, Huawei, and miHoYo, which presents a novel fast text-to-3D generation paradigm. 
+    * 3. The leading investment partner Gaorong Ventures also discusses its **commercialization and real-world potential**.
+    * 2. Our IEEE TMM paper for vehicle re-Identification has been repeatedly selected as an **ESI Highly Cited Paper**.
+    * 1. My results on Track3 of AI City Challenge, organized by NVIDIA on CVPR 2020, **rank 1st** on the official leaderboard, which surpasses the second ones by very large margins!
 
 <!--* The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) is adopted in the unified model [Bagel](https://bagel-ai.org/) from Bytedance Seed!
   * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from famous researchers. The work was also featured by the prominent U.S. AI platform PromptLayer in a special article titled “EventGPT: Giving AI the Power of Superhuman Vision”!
