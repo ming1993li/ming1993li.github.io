@@ -45,7 +45,7 @@ Cited Paper), 1 IJAS) and 23 other-author papers (2 ICML, 4 CVPR, 1 ICCV, 1 AAAI
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Apr. 2026]</b> Our CVPR 2026 papers, HyperGait and OddGridBench, have been selected as Highlight! Congratulations!
+  <li> <b>[Apr. 2026]</b> Two of our CVPR 2026 papers have been selected as Highlight! Congratulations!
 
   <li> <b>[Feb. 2026]</b> Five papers are accepted by CVPR 2026. Congratulations to Keyang, Zhiyu, and others!
   
