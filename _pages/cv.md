@@ -29,9 +29,9 @@ Awards
 
 Work experience
 ======
-* Jul. 2024 - Now: Senior Research Scientist (Talent Star Plan)
+* Jul. 2024 - Now: Genius Nova Senior Research Scientist
   * Guangming Lab, Shenzhen, China
-  * Research interest: AIGC, multi-modal large language models, embodied AI 
+  * Research interest: multi-modal large language models, Agentic AI 
     
 * Nov. 2019 - Apr. 2021: Research Assistant
   * Worcester Polytechnic Institute
