@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <i class="fa fa-fw fa-copy"></i> Publications #
+# <i class="fa fa-fw fa-copy"></i> Selected Publications #
 
 <!-- ## Conference Articles ## -->
 
@@ -176,49 +176,9 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>Neurocomputing</i>. 2025.<br>
-[<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
-<br clear="left">
-</p>
-
-<p>
-<img src="https://ming1993li.github.io/images/slam.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>DEP-SLAM: A Dynamic Environment Perception SLAM System with Large Language Models</b><br>Ying He, F. Richard Yu, Fei Ma, <b>Ming Li</b>, and Guang Zhou. <i>ICASSP</i>. 2025.<br>
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-<p>
 <img src="https://ming1993li.github.io/images/RealEra.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Corer: Concept Residue Erasing in Text-to-Image Diffusion Models</b><br>Yufan Liu, Jinyang An, Wanqian Zhang, <b>Ming Li</b>*, Dayan Wu, Jingzi Gu, Zheng Lin and Weiping Wang. <i>ICME</i>. 2025. (*Corresponding Author)<br> 
+<b>Corer: Concept Residue Erasing in Text-to-Image Diffusion Models</b><br>Yufan Liu, Jinyang An, Wanqian Zhang, <b>Ming Li</b>*, Dayan Wu, Jingzi Gu, Zheng Lin, and Weiping Wang. <i>ICME</i>. 2025. (*Corresponding Author)<br> 
 [<a href="https://arxiv.org/abs/2410.09140">Paper</a>][<a href="https://realerasing.github.io/RealEra/">Project</a>]
-<br clear="left">
-</p>
-
-
-
-<p>
-<img src="https://ming1993li.github.io/images/lv_vton.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>LV-VTON: Long-Video Virtual Try-On via Enhanced Visual Autoregressive Modeling</b><br>Lulu Tian, Hongxun Yao and <b>Ming Li</b>. <i>ICME</i>. 2025.<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-
-<p>
-<img src="https://ming1993li.github.io/images/omnistyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>OmniStyle: Attention-Optimized Global and Local Image Stylization with Diffusion Model Inversion</b><br>Jiarong Cheng, Xihang Qiu, Qing Zhou, <b>Ming Li</b>, Chun Li, Yao Lu and Fei Richard Yu. <i>ICME</i>. 2025. <br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
-<img src="https://ming1993li.github.io/images/SemiSupervisedDiseaseClassification.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Semi-Supervised Disease Classification based on Limited Medical Image Data</b><br>Yan Zhang, Zhaoxia Liu, Chun Li and <b>Ming Li</b>. <i>Journal of Biomedical and Health Informatics</i>. 2024.<br>
-[<a href="https://ieeexplore.ieee.org/document/10381816">Paper</a>][<a href="https://github.com/wmh12138/Paper_Code/tree/master/train">Code</a>]
 <br clear="left">
 </p>
 
@@ -226,13 +186,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 <img src="https://ming1993li.github.io/images/instant3d_overview.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Instant3D: Instant Text-to-3D Generation</b><br><b>Ming Li</b>, Pan Zhou, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan and Xiangyu Xu. <i>International Journal of Computer Vision</i>. 2024.<br>
 [<a href="http://arxiv.org/abs/2311.08403">Paper</a>][<a href="https://ming1993li.github.io/Instant3DProj/">Project</a>]
-<br clear="left">
-</p>
-
-<p>
-<img src="https://ming1993li.github.io/images/FakePoI.jpg?raw=true" alt="Figure" style="width: 200px; height: 90px;" hspace="20" align="left"/>
-<b>FakePoI: A Large-scale Fake Person of Interest Video Detection Benchmark and a Strong Baseline</b><br>Lulu Tian, Hongxun Yao, and <b>Ming Li</b>. <i>IEEE TCSVT</i>. 2023.<br>
-[<a href="https://ieeexplore.ieee.org/document/10107587">Paper</a>][<a href="https://github.com/cslltian/deepfake-detection">Code</a>]
 <br clear="left">
 </p>
 
@@ -261,23 +214,6 @@ Zhenxi Li, Fei Richard Yu, Ming Li* and Si Yong Yeo. <i>ICCV</i>. 2025. (*Corres
 <img src="https://ming1993li.github.io/images/selfsupervised_iccv21.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond</b><br><b>Ming Li</b>, Xinming Huang, and Ziming Zhang. <i>ICCV</i>. 2021.<br>
 [<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self-Supervised_Geometric_Features_Discovery_via_Interpretable_Attention_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf">Paper</a>][<a href="https://github.com/ming1993li/Self-supervised-Geometric">Code</a>]
-<br clear="left">
-</p>
-
-<p>
-<img src="https://ming1993li.github.io/images/ICPR20_TreeRNN.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>TreeRNN: Topology-Preserving Deep Graph Embedding and Learning</b><br>
-Yecheng Lyu, <b>Ming Li</b>, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, and Ziming Zhang. <i>ICPR</i>. 2020.<br>
-[<a href="https://ieeexplore.ieee.org/abstract/document/9412808">Paper</a>][<a href="https://github.com/YechengLyu/TreeRNN">Code</a>]
-<br clear="left">
-</p>
-
-
-<p>
-<img src="https://ming1993li.github.io/images/ICPR20_RNN.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>RNN Training along Locally Optimal Trajectories via Frank-Wolfe Algorithm</b><br>
-Yun Yue, <b>Ming Li</b>, Venkatesh Saligramay, Ziming Zhang. <i>ICPR</i>. 2020.<br>
-[<a href="https://ieeexplore.ieee.org/document/9412188">Paper</a>][<a href="https://github.com/YunYunY/FW_RNN_optimizer">Code</a>]
 <br clear="left">
 </p>
 
