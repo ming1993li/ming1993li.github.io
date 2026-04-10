@@ -22,7 +22,7 @@ Cited Paper), 1 IJAS) and 23 other-author papers (2 ICML, 4 CVPR, 1 ICCV, 1 AAAI
 
     * The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) to handle the fundamental pattern conflicts in unified models is adopted in Bagel developed by a **world-class AI team** Bytedance (TikTok) Seed!
     * In Mar. 2025, **much earlier than Qwen3-VL** (Nov. 2025), we propose deepstack-based multi-granularity visual feature injection in our FaVChat paper to boost the VLMs' capability of answering fine-grained questions.
-    * Our CVPR 2026 papers, HyperGait and OddGridBench, have been selected as **Highlight**!
+    * Two of our CVPR 2026 papers have been selected as **Highlight**!
     * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from many famous research groups. The work was also featured by the **prominent AI platform** Prompt Layer.
     * Our multiple research studies received **positive recognitions from leading experts**, such as the Member of the U.S. National Academy of Engineering and the Member of Academia Europaea.
     * Our AAAI 2026 paper on Agentic AI, StyleTailor, is accepted as an **Oral Presentation (top 4%)**.
