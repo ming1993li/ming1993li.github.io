@@ -49,7 +49,7 @@ author_profile: true
 
 
 <p>
-<img src="https://ming1993li.github.io/images/risk_awareness.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility</b><br>Mengxuan Wang, Yuxin Chen, Gang Xu, Tao He, hongjie jiang, <b>Ming Li</b>*. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03402">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/risk_awareness.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility</b><br>Mengxuan Wang, Yuxin Chen, Gang Xu, Tao He, Hongjie Jiang, <b>Ming Li</b>*. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03402">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
