@@ -15,24 +15,6 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/learning_decode.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Learning to Decode Against Compositional Hallucination in Video Multimodal Large Language Models</b><br>Wenbin Xing, Quanxing Zha, Lizheng Zu, Mengran Li, <b>Ming Li</b>*, Junchi Yan. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.00559">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
-<img src="https://ming1993li.github.io/images/4dpchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>4DPChat: Towards Dynamic Point Cloud Understanding with Failure-Aware Bootstrapping</b><br>Xindan Zhang, Weilong Yan, YUFEI SHI, Xuerui Qiu, Tao He, Ying Li, <b>Ming Li</b>*, Hehe Fan. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03890">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
-<img src="https://ming1993li.github.io/images/risk_awareness.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility</b><br>Mengxuan Wang, Yuxin Chen, Gang Xu, Tao He, hongjie jiang, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03402">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
 <img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FaVChat: Hierarchical Prompt-Query Guided Facial Video Understanding with Data-Efficient GRPO</b><br>Fufangchen Zhao, Songbai Tan, Xuerui Qiu, Linrui Xu, Wenhao Jiang, Jinkai Zheng, Hehe Fan, Jian Gao, Danfeng Yan, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -54,6 +36,22 @@ author_profile: true
 <br clear="left">
 </p>
 
+<p>
+<img src="https://ming1993li.github.io/images/learning_decode.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Learning to Decode Against Compositional Hallucination in Video Multimodal Large Language Models</b><br>Wenbin Xing, Quanxing Zha, Lizheng Zu, Mengran Li, <b>Ming Li</b>*, Junchi Yan. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.00559">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/4dpchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>4DPChat: Towards Dynamic Point Cloud Understanding with Failure-Aware Bootstrapping</b><br>Xindan Zhang, Weilong Yan, YUFEI SHI, Xuerui Qiu, Tao He, Ying Li, <b>Ming Li</b>*, Hehe Fan. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03890">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/risk_awareness.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility</b><br>Mengxuan Wang, Yuxin Chen, Gang Xu, Tao He, hongjie jiang, <b>Ming Li</b>*. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03402">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/yocity.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion</b><br>Keyang Lu, Sifan Zhou, Hongbin Xu, Gang Xu, Zhifei Yang, Yikai Wang, Zhen Xiao, Jieyi Long, and <b>Ming Li</b>*. <i>CVPR</i>. 2026. (*Corresponding Author)<br>[<a href="https://www.arxiv.org/pdf/2511.18734">Paper</a>][<a href="">Project</a>]
