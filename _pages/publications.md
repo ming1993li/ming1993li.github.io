@@ -34,6 +34,11 @@ author_profile: true
 
 
 <p>
+<img src="https://ming1993li.github.io/images/ORACLE.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage</b><br>Wenbo GAO, Songbai Tan, Zhongan Wang, Fei Shen, Gang Xu, Huiping Zhuang, Yunyun Yang, <b>Ming Li</b>*, Xiaofeng Zhu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/revisable.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Revisable by Design: A Theory of Streaming LLM Agent Execution</b><br>Zhiyuan Zhai, <b>Ming Li</b>*, Xin Wang. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://openreview.net/attachment?id=4j6LrMyRiu&name=pdf">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -44,6 +49,10 @@ author_profile: true
 </p>
 
 
+<p>
+<img src="https://ming1993li.github.io/images/RS-WorldModel.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>RS-WorldModel: Unified Fine-grained Remote Sensing Understanding and Future Scene Forecasting</b><br>Linrui Xu, Zhongan Wang, Fei Shen, Gang Xu, Huiping Zhuang, <b>Ming Li</b>*, Haifeng Li. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2603.14941">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 <p>
 <img src="https://ming1993li.github.io/images/favchat.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>FaVChat: Hierarchical Prompt-Query Guided Facial Video Understanding with Data-Efficient GRPO</b><br>Fufangchen Zhao, Songbai Tan, Xuerui Qiu, Linrui Xu, Wenhao Jiang, Jinkai Zheng, Hehe Fan, Jian Gao, Danfeng Yan, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="http://arxiv.org/pdf/2503.09158">Paper</a>][<a href="">Project</a>]
