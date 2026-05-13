@@ -9,8 +9,20 @@ author_profile: true
 
 <!-- ## Conference Articles ## -->
 
+
+
+<p>
+<img src="https://ming1993li.github.io/images/drama.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems</b><br>YUFEI SHI, Weilong Yan, Naixuan Huang, Yucheng Chen, Chenyu Zhang, YiMing Cheng, Tao He, Si Yong Yeo, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
 <p>
 <img src="https://ming1993li.github.io/images/tooltok.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>ToolTok: Tool Tokenization for Efficient and Generalizable GUI Agents</b><br>Xiaoce Wang, Guibin Zhang, Junzhe Li, Jinzhe Tu, Chun Li, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.02548">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/VAE-LFA.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space</b><br>Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.08250v1">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
