@@ -50,6 +50,11 @@ author_profile: true
 
 
 <p>
+<img src="https://ming1993li.github.io/images/4D-GSW.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>4D-GSW: 4D Gaussian Splatting Watermarking with Spatio-Temporal Consistent Learning</b><br>Sifan Zhou, Hang Zhang, wang yuhang, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/RS-WorldModel.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>RS-WorldModel: Unified Fine-grained Remote Sensing Understanding and Future Scene Forecasting</b><br>Linrui Xu, Zhongan Wang, Fei Shen, Gang Xu, Huiping Zhuang, <b>Ming Li</b>*, Haifeng Li. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2603.14941">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
