@@ -21,8 +21,14 @@ author_profile: true
 <br clear="left">
 </p>
 
+
 <p>
 <img src="https://ming1993li.github.io/images/VAE-LFA.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space</b><br>Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.08250v1">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/adaptive.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization</b><br>Zhiyuan Zhai, Bingcong Li, Bingnan Xiao, <b>Ming Li</b>*, Xin Wang. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2604.14853">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
