@@ -39,9 +39,16 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/revisable.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Revisable by Design: A Theory of Streaming LLM Agent Execution</b><br>Zhiyuan Zhai, <b>Ming Li</b>*, Xin Wang. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://openreview.net/attachment?id=4j6LrMyRiu&name=pdf">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/revisable.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Revisable by Design: A Theory of Streaming LLM Agent Execution</b><br>Zhiyuan Zhai, <b>Ming Li</b>*, Xin Wang. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2604.23283v1">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
+
+
+<p>
+<img src="https://ming1993li.github.io/images/DVAR.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>DVAR: Adversarial Multi-Agent Debate for Video Authenticity Detection</b><br>Hongyuan Qi, Feifei Shao, <b>Ming Li</b>*, Hehe Fan, Jun Xiao. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2604.16987">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
 
 <p>
 <img src="https://ming1993li.github.io/images/LangTail.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors</b><br>Siqi Wei, Hongbin Xu, Feng Xiao, Tian Lan, Chun Li, <b>Ming Li</b>*, Qiuxia Wu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
