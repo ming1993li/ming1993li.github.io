@@ -34,7 +34,7 @@ author_profile: true
 
 
 <p>
-<img src="https://ming1993li.github.io/images/ORACLE.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage</b><br>Wenbo GAO, Songbai Tan, Zhongan Wang, Fei Shen, Gang Xu, Huiping Zhuang, Yunyun Yang, <b>Ming Li</b>*, Xiaofeng Zhu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/ORACLE.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage</b><br>Wenbo GAO, Songbai Tan, Zhongan Wang, Fei Shen, Gang Xu, Huiping Zhuang, Yunyun Yang, <b>Ming Li</b>*, Xiaofeng Zhu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.16363">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
