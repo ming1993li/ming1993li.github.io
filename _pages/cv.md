@@ -19,6 +19,7 @@ Education
 
 Awards
 ======
+* Silver Reviewer Award of ICML 2026
 * Excellence Prize, 2024 Shenzhen Intelligent Robot Dexterous Hand Competition, 2024, Shenzhen
 * Ph.D. Fellowship, 2021-2024, NUS
 *	Huawei Scholarship, 2017, PKU
