@@ -12,7 +12,7 @@ author_profile: true
 
 
 <p>
-<img src="https://ming1993li.github.io/images/drama.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems</b><br>YUFEI SHI, Weilong Yan, Naixuan Huang, Yucheng Chen, Chenyu Zhang, YiMing Cheng, Tao He, Si Yong Yeo, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/drama.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems</b><br>YUFEI SHI, Weilong Yan, Naixuan Huang, Yucheng Chen, Chenyu Zhang, YiMing Cheng, Tao He, Si Yong Yeo, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.22144">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
@@ -51,13 +51,13 @@ author_profile: true
 
 
 <p>
-<img src="https://ming1993li.github.io/images/LangTail.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors</b><br>Siqi Wei, Hongbin Xu, Feng Xiao, Tian Lan, Chun Li, <b>Ming Li</b>*, Qiuxia Wu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/LangTail.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors</b><br>Siqi Wei, Hongbin Xu, Feng Xiao, Tian Lan, Chun Li, <b>Ming Li</b>*, Qiuxia Wu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.20737">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
 
 <p>
-<img src="https://ming1993li.github.io/images/4D-GSW.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>4D-GSW: 4D Gaussian Splatting Watermarking with Spatio-Temporal Consistent Learning</b><br>Sifan Zhou, Hang Zhang, wang yuhang, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/4D-GSW.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>4D-GSW: 4D Gaussian Splatting Watermarking with Spatio-Temporal Consistent Learning</b><br>Sifan Zhou, Hang Zhang, wang yuhang, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.22342">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
