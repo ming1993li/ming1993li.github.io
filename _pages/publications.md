@@ -83,12 +83,6 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/XSGS.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>X-SGS: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks</b><br>Zihang Cheng, Huiping Zhuang, Chun Li, Xin Meng, <b>Ming Li</b>*, Fei Richard Yu, Liqiang Nie. <i>Under Review</i>. 2025. (*Corresponding Author)<br> 
-[<a href="https://arxiv.org/abs/2502.10475">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-<p>
 <img src="https://ming1993li.github.io/images/learning_decode.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Learning to Decode Against Compositional Hallucination in Video Multimodal Large Language Models</b><br>Wenbin Xing, Quanxing Zha, Lizheng Zu, Mengran Li, <b>Ming Li</b>*, Junchi Yan. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.00559">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -132,6 +126,12 @@ author_profile: true
 <p>
 <img src="https://ming1993li.github.io/images/StyleTailor.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</b><br>Hongbo Ma, Fei Shen, Hongbin Xu, Xiaoce Wang, Gang Xu, Jinkai Zheng, Liangqiong Qu and <b>Ming Li</b>*. <i>AAAI</i>. 2026. (*Corresponding Author)<br> 
 [<a href="https://arxiv.org/pdf/2508.06555">Paper</a>][<a href="https://mahb-thu.github.io/StyleTailor.github.io/">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/XSGS.png?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>X-SGS: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks</b><br>Zihang Cheng, Wentao Bao, Huiping Zhuang, Chun Li, Xin Meng, Ziqian Zeng, Cen Chen, <b>Ming Li</b>*, and Fei Yu. <i>ECCV</i>. 2026. (*Corresponding Author)<br> 
+[<a href="https://arxiv.org/abs/2502.10475">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
