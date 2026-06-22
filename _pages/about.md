@@ -47,6 +47,8 @@ Cited Paper), 1 PR, 1 IJAS) and 26 other-author papers (3 ICML, 4 CVPR, 1 ICCV, 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[June 2026]</b> Two papers are accepted by ECCV 2026. Congratulations to Zihang and Kerui!
+
   <li> <b>[May 2026]</b> Congratulations to Jun Du on receiving a fully funded PhD offer in Computer Science from University of Connecticut! The university is ranked No. 69 in the 2026 U.S. News National University Rankings.
   
   <li> <b>[May 2026]</b> One of our ICML 2026 papers has been selected as Spotlight! Congratulations!
