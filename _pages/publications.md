@@ -45,12 +45,6 @@ author_profile: true
 
 
 <p>
-<img src="https://ming1993li.github.io/images/DVAR.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>DVAR: Adversarial Multi-Agent Debate for Video Authenticity Detection</b><br>Hongyuan Qi, Feifei Shao, <b>Ming Li</b>*, Hehe Fan, Jun Xiao. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2604.16987">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
-
-<p>
 <img src="https://ming1993li.github.io/images/LangTail.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors</b><br>Siqi Wei, Hongbin Xu, Feng Xiao, Tian Lan, Chun Li, <b>Ming Li</b>*, Qiuxia Wu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.20737">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
@@ -138,6 +132,11 @@ author_profile: true
 <p>
 <img src="https://ming1993li.github.io/images/CyC3D.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>CyC3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization</b><br>Hongbin Xu, Chaohui Yu, Feng Xiao, Jiazheng Xing, Hai Ci, Weitao Chen and <b>Ming Li</b>*. <i>AAAI</i>. 2026. (*Corresponding Author)<br> 
 [<a href="https://arxiv.org/abs/2504.14975">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/DVAR.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>DVAR: Adversarial Multi-Agent Debate for Video Authenticity Detection</b><br>Hongyuan Qi, Feifei Shao, <b>Ming Li</b>*, Hehe Fan, Jun Xiao. <i>ACM MM</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2604.16987">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
