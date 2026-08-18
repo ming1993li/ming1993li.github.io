@@ -12,7 +12,7 @@ redirect_from:
 * I am a Tenure-Track Assistant Professor at the [School of Artificial Intelligence](https://sai.cuhk.edu.cn/en/teacher/277) in The Chinese University of Hong Kong, Shenzhen. My research focuses on Large Language Models, Vision-Language Models, AI Agents, and Reinforcement Learning. I direct **OmniAI Lab**, where we develop **next-generation AI systems that perceive, reason, and act to improve every aspect of human life**. I have published 55 papers, including 29 first or corresponding-author papers (1 IJCV, 4 ICML, 2 ICLR, 1 NeurIPS, 3 CVPR, 5 ICCV, 1 ECCV, 1 IEEE TIP, 2 AAAI, 1 IJCAI, 2 ACM MM, 3 IEEE TMM (One ESI Highly
 Cited Paper), 1 PR, 1 ICME, 1 IJAS) and 26 other-author papers (3 ICML, 4 CVPR, 1 ICCV, 1 ECCV, 1 IEEE TMM, 1 AAAI, 1 ACM MM, 2 PR, 1 TOMM, 2 ICME, 1 ICASSP, 1 IEEE TCSVT, 1 JBHI, 1 Neurocomputing, 2 JMSE, 1 EAAI, and 2 ICPR). I worked as a research scientist intern at Sea AI Lab.
 
-* Academic Services: Silver Reviewer Award of ICML 2026; Associate Editor of IEEE Transactions on Industrial Informatics and Pattern Recognition; Area Chair of WACV 2026/2027; Regular Reviewer of TPAMI, IJCV, ICML, ICLR, NeurIPS, CVPR, ICCV.
+* Academic Services: IEEE Senior Member; Silver Reviewer Award of ICML 2026; Associate Editor of IEEE Transactions on Industrial Informatics and Pattern Recognition; Area Chair of WACV 2026/2027; Regular Reviewer of TPAMI, IJCV, ICML, ICLR, NeurIPS, CVPR, ICCV.
 <!-- Full-time researchers, visiting students and remote cooperations are very welcome! -->
 
 
