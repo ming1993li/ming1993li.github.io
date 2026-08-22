@@ -51,10 +51,3 @@ Work experience
   * Duties: data processing using machine learning methods
  
 # <i class="fa fa-fw fa-file "></i> Mentorship #   
-  
-Skills
-======
-* Python
-* Pytorch
-* Ubuntu
-* Tensorflow
