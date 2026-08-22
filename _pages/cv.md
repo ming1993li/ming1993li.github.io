@@ -30,7 +30,11 @@ Awards
 
 Work experience
 ======
-* Jul. 2024 - Now: Genius Nova Senior Research Scientist
+* Jul. 2026 - Now: Tenure-Track Assistant Professor
+  * The Chinese University of Hong Kong, Shenzhen, China
+  * Research interest: multi-modal large language models, Agentic AI
+    
+* Jul. 2024 - Jun 2026: Genius Nova Senior Research Scientist
   * Guangming Lab, Shenzhen, China
   * Research interest: multi-modal large language models, Agentic AI 
     
