@@ -49,5 +49,4 @@ Work experience
 * Spring 2016: Intern
   * Baidu Online Network Technology (Beijing) Co.
   * Duties: data processing using machine learning methods
- 
-# <i class="fa fa-fw fa-file "></i> Mentorship #   
+  
