@@ -11,22 +11,6 @@ redirect_from:
 
 # <i class="fa fa-fw fa-file "></i> Members #
 
-
-
-
-
-
-
----
-permalink: /mentorship/
-title: "Mentorship"
-author_profile: true
-redirect_from:
-  - /mentoring/
----
-
-## Mentorship
-
 I am fortunate to work with a group of talented students and researchers.
 
 ### Ph.D. Students
