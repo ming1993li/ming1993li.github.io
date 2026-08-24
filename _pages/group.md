@@ -11,16 +11,16 @@ redirect_from:
 
 I am fortunate to work with a group of talented students and researchers.
 
-# <i class="fa fa-fw fa-file "></i> Ph.D. Students
+# <i class="fa fa-fw fa-file "></i> Ph.D.
 
-# <i class="fa fa-fw fa-file "></i> Master's Students
+# <i class="fa fa-fw fa-file "></i> Master
 * **Mingxuan Li** (Bachelor from Shandong University)
 * **Yu Zhang** (Bachelor from Wuhan University)
 * **Yiwei Gao** (Bachelor from Dalian University of Technology)
 * **Chenhao Zhang** (Bachelor from East China University of Science and Technology)
 
 
-# <i class="fa fa-fw fa-file "></i> Prospective Students
+# <i class="fa fa-fw fa-file "></i> Prospective
 
 I am actively looking for highly motivated Ph.D./master students, visiting students, and interns interested in:
 
