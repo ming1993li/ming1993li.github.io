@@ -32,13 +32,10 @@ I am fortunate to work with a group of talented students and researchers.
 ### Ph.D. Students
 
 ### Master's Students
-- **Mingxuan Li**, with BS
-- **Yu Zhang**
-- **Yiwei Gao**
-- **Chenhao Zhang**
-* 
-* 
-* 
+- **Mingxuan Li** (Bachelor from Shandong University)
+- **Yu Zhang** (Bachelor from Wuhan University)
+- **Yiwei Gao** (Bachelor from Dalian University of Technology)
+- **Chenhao Zhang** (Bachelor from East China University of Science and Technology)
 
 
 ### Prospective Students
