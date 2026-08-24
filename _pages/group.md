@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# <i class="fa fa-fw fa-file "></i> Mentorship #
+# <i class="fa fa-fw fa-file "></i> Members #
 
 Ph.D.
 ======
