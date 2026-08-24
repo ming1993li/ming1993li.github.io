@@ -55,6 +55,7 @@ assistants, visiting students, and interns interested in:
 If you are interested in joining OmniAI Lab, please email me with your CV,
 transcript, research interests, and representative projects or publications.
 
+---
 Ph.D.
 ======
 
