@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# <i class="fa fa-fw fa-file "></i> Members #
-
 I am fortunate to work with a group of talented students and researchers.
 
-### Ph.D. Students
+# <i class="fa fa-fw fa-file "></i> Ph.D. Students#
 
-### Master's Students
-- **Mingxuan Li** (Bachelor from Shandong University)
+# <i class="fa fa-fw fa-file "></i> Master's Students#
+* Mingxuan Li (Bachelor from Shandong University)
 - **Yu Zhang** (Bachelor from Wuhan University)
 - **Yiwei Gao** (Bachelor from Dalian University of Technology)
 - **Chenhao Zhang** (Bachelor from East China University of Science and Technology)
