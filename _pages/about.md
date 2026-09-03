@@ -21,8 +21,8 @@ Cited Paper), 1 PR, 1 ICME, 1 IJAS) and 27 other-author papers (3 ICML, 4 CVPR, 
 * Many of my research outcomes have been recognized by leading experts, public media, prestigious universities, investment partners, highly cited indicators, and top-tier conference oral presentations:
   
     * Our paper, One Sentence, One Drama, focusing on a Multi-agent System for AI Drama Generation, receives substantial **attention from a TikTok research director**. We are invited to discuss collaborations and commercialization!
-    * The Grouped MoE technique proposed in our UniF2ace (ICLR 2026) to handle the fundamental pattern conflicts in unified models is adopted in Bagel developed by a **world-class AI team** Bytedance (TikTok) Seed!
-    * In Mar. 2025, **much earlier than Qwen3-VL** (Nov. 2025), we propose deepstack-based multi-granularity visual feature injection in our FaVChat paper to boost the VLMs' capability of answering fine-grained questions.
+    * We introduced Grouped MoE in UniF2ace (ICLR 2026) in March 2025—two months before a similar technique appeared in Bagel, released by ByteDance Seed in May 2025—to address fundamental pattern conflicts in unified models!
+    * In Mar. 2025, **much earlier than Qwen3-VL** (Nov. 2025), we propose deepstack-based multi-granularity visual feature injection in our FaVChat paper to boost the VLMs' capability of answering different granularity questions.
     * One of our ICML 2026 papers has been selected as **Oral Presentation(2.6% of accepted papers)**!
     * Two of our CVPR 2026 papers have been selected as **Highlight (top 3%)**! 
     * Our CVPR 2025 paper, EventGPT, has attracted significant attention from the academic community. Notably, we received collaboration inquiries from many famous research groups. The work was also featured by the **prominent AI platform** Prompt Layer.
