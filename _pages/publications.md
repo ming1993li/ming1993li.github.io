@@ -21,12 +21,6 @@ author_profile: true
 <br clear="left">
 </p>
 
-
-<p>
-<img src="https://ming1993li.github.io/images/VAE-LFA.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space</b><br>Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.08250v1">Paper</a>][<a href="">Project</a>]
-<br clear="left">
-</p>
-
 <p>
 <img src="https://ming1993li.github.io/images/adaptive.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Adaptive Test-Time Compute Allocation for Reasoning LLMs via Constrained Policy Optimization</b><br>Zhiyuan Zhai, Bingcong Li, Bingnan Xiao, <b>Ming Li</b>*, Xin Wang. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2604.14853">Paper</a>][<a href="">Project</a>]
 <br clear="left">
@@ -97,6 +91,12 @@ author_profile: true
 <img src="https://ming1993li.github.io/images/risk_awareness.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility</b><br>Mengxuan Wang, Yuxin Chen, Gang Xu, Tao He, Hongjie Jiang, <b>Ming Li</b>*. <i>ICML</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2602.03402">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
+
+<p>
+<img src="https://ming1993li.github.io/images/VAE-LFA.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space</b><br>Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, <b>Ming Li</b>*. <i>NeurIPS</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.08250v1">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
 
 <p>
 <img src="https://ming1993li.github.io/images/yocity.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion</b><br>Keyang Lu, Sifan Zhou, Hongbin Xu, Gang Xu, Zhifei Yang, Yikai Wang, Zhen Xiao, Jieyi Long, and <b>Ming Li</b>*. <i>CVPR</i>. 2026. (*Corresponding Author)<br>[<a href="https://www.arxiv.org/pdf/2511.18734">Paper</a>][<a href="">Project</a>]
