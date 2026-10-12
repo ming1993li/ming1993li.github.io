@@ -146,7 +146,7 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/3Dmedical.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Efficient 3D Medical Reconstruction from Sparse Views via 2D Diffusion Models with Curvature Priors</b><br>Qing Zhou†, Ming Li†, Vladimir Ternovskiy, Ye Zhang, Fei Richard Yu, and Chun Li. <i>IEEE TIP</i>. 2026. (†Equal Contributors)<br>[<a href="">Paper</a>][<a href="">Project</a>]
+<img src="https://ming1993li.github.io/images/3Dmedical.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Efficient 3D Medical Reconstruction from Sparse Views via 2D Diffusion Models with Curvature Priors</b><br>Qing Zhou†, Ming Li†, Xiangyu Xu, Xihang Qiu, Vladimir Ternovski, Ye Zhang, Siyuan Liu, Chun Li, Fei Yu. <i>IEEE TIP</i>. 2026. (†Equal Contributors)<br>[<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
