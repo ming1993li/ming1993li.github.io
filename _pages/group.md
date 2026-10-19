@@ -14,7 +14,7 @@ I am fortunate to work with a group of talented students and researchers.
 # <i class="fa fa-fw fa-file "></i> Ph.D.
 
 * **Wenbin Xing** (Master from Sun Yat-sen University)
-- First-author Publications: 1 ICML, 1 TNNLS  
+    - First-author Publications: 1 ICML, 1 TNNLS  
 
 # <i class="fa fa-fw fa-file "></i> Master
 * **Mingxuan Li** (Bachelor from Shandong University)
