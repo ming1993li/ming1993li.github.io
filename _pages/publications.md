@@ -10,7 +10,7 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 
 <p>
-<img src="https://ming1993li.github.io/images/GUI-grounding.jpg.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>GUI Grounding for Computer-Use Agents: A Survey</b><br>Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, Xiangyu Xu, Chun Li, Yanshan Li, Shihui Ying, Junchi Yan, Bingyi Jing, <b>Ming Li</b>*, Zheng Zhu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://www.preprints.org/frontend/manuscript/432b43e65cbed141189b73de6e1c84f8/download_pub">Paper</a>][<a href="https://github.com/OmniAI-Lab-CUHKSZ/Awesome-GUI-Grounding">Project</a>]
+<img src="https://ming1993li.github.io/images/GUI-grounding.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>GUI Grounding for Computer-Use Agents: A Survey</b><br>Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, Xiangyu Xu, Chun Li, Yanshan Li, Shihui Ying, Junchi Yan, Bingyi Jing, <b>Ming Li</b>*, Zheng Zhu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://www.preprints.org/frontend/manuscript/432b43e65cbed141189b73de6e1c84f8/download_pub">Paper</a>][<a href="https://github.com/OmniAI-Lab-CUHKSZ/Awesome-GUI-Grounding">Project</a>]
 <br clear="left">
 </p>
 
