@@ -20,6 +20,12 @@ author_profile: true
 </p>
 
 <p>
+<img src="https://ming1993li.github.io/images/MKD2World.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>MKD2World: A Typed Spatial Markdown World Model for Web Agents</b><br>Zhihao Nan, Sifan Zhou, Yiming Cheng, Jinkai Zheng, Zheng Zhu, Si Shi, <b>Ming Li</b>*, Fei Yu. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2611.06544">Paper</a>][<a href="https://github.com/OmniAI-Lab-CUHKSZ/
+MKD2World">Project</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/drama.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems</b><br>YUFEI SHI, Weilong Yan, Naixuan Huang, Yucheng Chen, Chenyu Zhang, YiMing Cheng, Tao He, Si Yong Yeo, <b>Ming Li</b>*. <i>Under Review</i>. 2026. (*Corresponding Author)<br>[<a href="https://arxiv.org/pdf/2605.22144">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
