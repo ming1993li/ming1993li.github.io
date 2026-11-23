@@ -15,7 +15,7 @@ I am fortunate to work with a group of talented students and researchers.
 
 * **Wenbin Xing** (27 Fall intake, Master from SYSU)
     - First-author Publications: 1 ICML, 1 TNNLS
-* **Wenbin Xing** (27 Fall intake, Master from NUDT)
+* **Jiawei Yu** (27 Fall intake, Master from NUDT)
     - First-author Publications: 1 ICML, 1 CVPR  
 
 # <i class="fa fa-fw fa-file "></i> Master
