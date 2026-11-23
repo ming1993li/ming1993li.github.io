@@ -13,14 +13,16 @@ I am fortunate to work with a group of talented students and researchers.
 
 # <i class="fa fa-fw fa-file "></i> Ph.D.
 
-* **Wenbin Xing** (Master from Sun Yat-sen University)
-    - First-author Publications: 1 ICML, 1 TNNLS  
+* **Wenbin Xing** (27 Fall intake, Master from SYSU)
+    - First-author Publications: 1 ICML, 1 TNNLS
+* **Wenbin Xing** (27 Fall intake, Master from NUDT)
+    - First-author Publications: 1 ICML, 1 CVPR  
 
 # <i class="fa fa-fw fa-file "></i> Master
-* **Mingxuan Li** (Bachelor from Shandong University)
-* **Yu Zhang** (Bachelor from Wuhan University)
-* **Yiwei Gao** (Bachelor from Dalian University of Technology)
-* **Chenhao Zhang** (Bachelor from East China University of Science and Technology)
+* **Mingxuan Li** (Bachelor from Shandong U.)
+* **Yu Zhang** (Bachelor from Wuhan U.)
+* **Yiwei Gao** (Bachelor from Dalian U. of Tech)
+* **Chenhao Zhang** (Bachelor from East China U. of Sci and Tech)
 
 
 # <i class="fa fa-fw fa-file "></i> Prospective
